@@ -1,0 +1,18 @@
+body {
+  background-color: khaki;
+}
+h2 {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: underline;
+}
+.chapter {
+  color: blue;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
